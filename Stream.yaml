@@ -10,31 +10,27 @@ payload:
 
  - DOMAIN-SUFFIX,yt.be
 
- - DOMAIN-SUFFIX,youtube-nocookie.com
-
- - DOMAIN-SUFFIX,youtubekids.com
-
  - DOMAIN-SUFFIX,googlevideo.com
 
  - DOMAIN-SUFFIX,ytimg.com
 
- - DOMAIN-SUFFIX,ggpht.com
+ - DOMAIN-SUFFIX,youtube-nocookie.com
 
- - DOMAIN-SUFFIX,youtube.googleapis.com
+ - DOMAIN-SUFFIX,youtubekids.com
 
- - DOMAIN-SUFFIX,youtubei.googleapis.com
+ - DOMAIN-SUFFIX,withyoutube.com
 
-# > Twitch
+ - DOMAIN,youtubei.googleapis.com
 
- - DOMAIN-SUFFIX,twitch.tv
+ - DOMAIN,youtube.googleapis.com
 
- - DOMAIN-SUFFIX,ttvnw.net
+ - DOMAIN,youtubeembeddedplayer.googleapis.com
 
- - DOMAIN-SUFFIX,twitchcdn.net
+ - DOMAIN,jnn-pa.googleapis.com
 
- - DOMAIN-SUFFIX,twitchsvc.net
+ - DOMAIN,yt3.ggpht.com
 
- - DOMAIN-SUFFIX,jtvnw.net
+ - DOMAIN,yt4.ggpht.com
 
 # > TikTok
 
@@ -44,15 +40,37 @@ payload:
 
  - DOMAIN-SUFFIX,tiktokv.us
 
+ - DOMAIN-SUFFIX,tiktokvapp.com
+
+ - DOMAIN-SUFFIX,tiktokw.us
+
  - DOMAIN-SUFFIX,tiktokcdn.com
 
  - DOMAIN-SUFFIX,tiktokcdn-us.com
+
+ - DOMAIN-SUFFIX,tiktokcdn-eu.com
+
+ - DOMAIN-SUFFIX,tiktokcdn-row.com
+
+ - DOMAIN-SUFFIX,tiktokrow-cdn.com
 
  - DOMAIN-SUFFIX,tiktokd.net
 
  - DOMAIN-SUFFIX,tiktokd.org
 
+ - DOMAIN-SUFFIX,tik-tokapi.com
+
+ - DOMAIN-SUFFIX,ttwstatic.com
+
+ - DOMAIN-SUFFIX,ttlivecdn.com
+
  - DOMAIN-SUFFIX,byteoversea.com
+
+ - DOMAIN-SUFFIX,byteoversea.net
+
+ - DOMAIN-SUFFIX,bytefcdn-oversea.com
+
+ - DOMAIN-SUFFIX,byteintlapi.com
 
  - DOMAIN-SUFFIX,ibytedtos.com
 
@@ -62,8 +80,30 @@ payload:
 
  - DOMAIN-SUFFIX,sgpstatp.com
 
- - DOMAIN-SUFFIX,musical.ly
+ - DOMAIN-SUFFIX,isnssdk.com
 
  - DOMAIN-SUFFIX,muscdn.com
 
- - DOMAIN,p16-tiktokcdn-com.akamaized.net
+ - DOMAIN-SUFFIX,musical.ly
+
+ - DOMAIN-KEYWORD,tiktok
+
+# > Twitch
+
+ - DOMAIN-SUFFIX,twitch.tv
+
+ - DOMAIN-SUFFIX,twitchcdn.net
+
+ - DOMAIN-SUFFIX,twitchsvc.net
+
+ - DOMAIN-SUFFIX,twitchapps.com
+
+ - DOMAIN-SUFFIX,ext-twitch.tv
+
+ - DOMAIN-SUFFIX,jtvnw.net
+
+ - DOMAIN-SUFFIX,ttvnw.net
+
+ - DOMAIN-SUFFIX,twitch.a2z.com
+
+ - DOMAIN-SUFFIX,live-video.net
