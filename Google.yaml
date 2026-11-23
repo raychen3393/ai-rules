@@ -2,80 +2,144 @@
 
 payload:
 
-# > Google AI (Gemini / AI Studio / NotebookLM)
-
- - DOMAIN,ai.google.dev
-
- - DOMAIN-SUFFIX,aistudio.google.com
-
- - DOMAIN-SUFFIX,makersuite.google.com
-
- - DOMAIN-SUFFIX,bard.google.com
+# > Google AI (Gemini / AI Studio / NotebookLM / Antigravity / Jules / Labs)
 
  - DOMAIN-SUFFIX,gemini.google.com
 
  - DOMAIN-SUFFIX,gemini.google
 
- - DOMAIN-SUFFIX,generativeai.google
+ - DOMAIN-SUFFIX,aistudio.google.com
 
- - DOMAIN-SUFFIX,colab.google.com
+ - DOMAIN-SUFFIX,ai.studio
 
- - DOMAIN-SUFFIX,colab.research.google.com
+ - DOMAIN-SUFFIX,ai.google.dev
 
- - DOMAIN-SUFFIX,deepmind.com
+ - DOMAIN-SUFFIX,makersuite.google.com
 
- - DOMAIN-SUFFIX,deepmind.google
-
- - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-
- - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+ - DOMAIN-SUFFIX,bard.google.com
 
  - DOMAIN-SUFFIX,notebooklm.google.com
 
  - DOMAIN-SUFFIX,notebooklm.google
 
-# > Google Basic Services (account / search / mail / sync / update)
+ - DOMAIN-SUFFIX,notebook.google.com
+
+ - DOMAIN-SUFFIX,notebook.google
+
+ - DOMAIN-SUFFIX,deepmind.com
+
+ - DOMAIN-SUFFIX,deepmind.google
+
+ - DOMAIN-SUFFIX,generativeai.google
+
+ - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+ - DOMAIN-SUFFIX,antigravity.google
+
+ - DOMAIN-SUFFIX,antigravity.google.com
+
+ - DOMAIN-SUFFIX,antigravity-unleash.goog
+
+ - DOMAIN-SUFFIX,jules.google
+
+ - DOMAIN-SUFFIX,jules.google.com
+
+ - DOMAIN-SUFFIX,labs.google
+
+ - DOMAIN-SUFFIX,labs.google.com
+
+ - DOMAIN-SUFFIX,flow.google
+
+ - DOMAIN-SUFFIX,flow.google.com
+
+ - DOMAIN-SUFFIX,opal.google
+
+ - DOMAIN-SUFFIX,opal.google.com
+
+ - DOMAIN-SUFFIX,stitch.withgoogle.com
+
+ - DOMAIN-SUFFIX,gemini.gstatic.com
+
+ - DOMAIN-SUFFIX,aicode.googleapis.com
+
+ - DOMAIN-SUFFIX,aida.googleapis.com
+
+ - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+ - DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+ - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+
+ - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+ - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+ - DOMAIN,geminiweb-pa.clients.google.com
+
+ - DOMAIN,geminiweb-pa.clients6.google.com
+
+ - DOMAIN,alkalicore-pa.clients6.google.com
+
+ - DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+ - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+
+ - DOMAIN,appsgenaiserver-pa.clients.google.com
+
+ - DOMAIN,appsgenaiserver-pa.clients6.google.com
+
+ - DOMAIN,appsgenaiserver-pa.googleapis.com
+
+ - DOMAIN,notebooklm-pa.googleapis.com
+
+ - DOMAIN,notebooklm.googleapis.com
+
+ - DOMAIN,antigravity-pa.googleapis.com
+
+ - DOMAIN,antigravity.googleapis.com
+
+ - DOMAIN,cloudaicompanion.googleapis.com
+
+ - DOMAIN,cloudcode-pa.googleapis.com
+
+ - DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# > Google Basic Services
 
  - DOMAIN-SUFFIX,google.com
 
- - DOMAIN-SUFFIX,gmail.com
+ - DOMAIN-SUFFIX,google.com.tw
 
- - DOMAIN-SUFFIX,googlemail.com
+ - DOMAIN-SUFFIX,google.com.hk
+
+ - DOMAIN-SUFFIX,google
+
+ - DOMAIN-SUFFIX,goog
+
+ - DOMAIN-SUFFIX,googleapis.com
 
  - DOMAIN-SUFFIX,gstatic.com
 
- - DOMAIN-SUFFIX,dl.google.com
+ - DOMAIN-SUFFIX,googleusercontent.com
+
+ - DOMAIN-SUFFIX,ggpht.com
 
  - DOMAIN-SUFFIX,gvt1.com
 
  - DOMAIN-SUFFIX,gvt2.com
 
- - DOMAIN-SUFFIX,lh3.googleusercontent.com
+ - DOMAIN-SUFFIX,gvt3.com
 
- - DOMAIN-SUFFIX,www.googleapis.com
+ - DOMAIN-SUFFIX,withgoogle.com
 
- - DOMAIN-SUFFIX,oauth2.googleapis.com
+ - DOMAIN-SUFFIX,gmail.com
 
- - DOMAIN-SUFFIX,gmail.googleapis.com
+ - DOMAIN-SUFFIX,googlemail.com
 
- - DOMAIN-SUFFIX,drive.googleapis.com
+ - DOMAIN-SUFFIX,recaptcha.net
 
- - DOMAIN-SUFFIX,calendar.googleapis.com
+ - DOMAIN-SUFFIX,goo.gl
 
- - DOMAIN-SUFFIX,people.googleapis.com
+ - DOMAIN-SUFFIX,g.co
 
- - DOMAIN-SUFFIX,translate.googleapis.com
-
- - DOMAIN-SUFFIX,maps.googleapis.com
-
- - DOMAIN-SUFFIX,play.googleapis.com
-
- - DOMAIN-SUFFIX,photoslibrary.googleapis.com
-
- - DOMAIN-SUFFIX,safebrowsing.googleapis.com
-
- - DOMAIN-SUFFIX,update.googleapis.com
-
- - DOMAIN-SUFFIX,fonts.googleapis.com
-
- - DOMAIN-SUFFIX,android.googleapis.com
+ - DOMAIN-SUFFIX,1e100.net
