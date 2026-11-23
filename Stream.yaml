@@ -8,13 +8,19 @@ payload:
 
  - DOMAIN-SUFFIX,youtu.be
 
+ - DOMAIN-SUFFIX,yt.be
+
  - DOMAIN-SUFFIX,youtube-nocookie.com
+
+ - DOMAIN-SUFFIX,youtubekids.com
 
  - DOMAIN-SUFFIX,googlevideo.com
 
  - DOMAIN-SUFFIX,ytimg.com
 
  - DOMAIN-SUFFIX,ggpht.com
+
+ - DOMAIN-SUFFIX,youtube.googleapis.com
 
  - DOMAIN-SUFFIX,youtubei.googleapis.com
 
@@ -26,6 +32,8 @@ payload:
 
  - DOMAIN-SUFFIX,twitchcdn.net
 
+ - DOMAIN-SUFFIX,twitchsvc.net
+
  - DOMAIN-SUFFIX,jtvnw.net
 
 # > TikTok
@@ -34,14 +42,28 @@ payload:
 
  - DOMAIN-SUFFIX,tiktokv.com
 
+ - DOMAIN-SUFFIX,tiktokv.us
+
  - DOMAIN-SUFFIX,tiktokcdn.com
+
+ - DOMAIN-SUFFIX,tiktokcdn-us.com
+
+ - DOMAIN-SUFFIX,tiktokd.net
+
+ - DOMAIN-SUFFIX,tiktokd.org
 
  - DOMAIN-SUFFIX,byteoversea.com
 
  - DOMAIN-SUFFIX,ibytedtos.com
 
+ - DOMAIN-SUFFIX,ibyteimg.com
+
  - DOMAIN-SUFFIX,ipstatp.com
+
+ - DOMAIN-SUFFIX,sgpstatp.com
 
  - DOMAIN-SUFFIX,musical.ly
 
  - DOMAIN-SUFFIX,muscdn.com
+
+ - DOMAIN,p16-tiktokcdn-com.akamaized.net
