@@ -4,35 +4,79 @@ payload:
 
 # > ChatGPT/OpenAI
 
- - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-
- - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-
- - DOMAIN,production-openaicom-storage.azureedge.net
-
- - DOMAIN,api.statsig.com
+ - DOMAIN-SUFFIX,openai.com
 
  - DOMAIN-SUFFIX,chatgpt.com
 
  - DOMAIN-SUFFIX,chat.com
 
- - DOMAIN-SUFFIX,openai.com
-
  - DOMAIN-SUFFIX,ai.com
 
  - DOMAIN-SUFFIX,sora.com
 
+ - DOMAIN-SUFFIX,openai.org
+
+ - DOMAIN-SUFFIX,chatgpt.site
+
+ - DOMAIN-SUFFIX,crixet.com
+
  - DOMAIN-SUFFIX,oaistatic.com
+
+ - DOMAIN-SUFFIX,oaistatsig.com
 
  - DOMAIN-SUFFIX,oaiusercontent.com
 
- - DOMAIN-SUFFIX,livekit.cloud
+ - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 
- - DOMAIN-SUFFIX,statsigapi.net
+ - DOMAIN,openaiapi-site.azureedge.net
 
- - DOMAIN-SUFFIX,featureassets.org
+ - DOMAIN,openaiassets.blob.core.windows.net
+
+ - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+
+ - DOMAIN,openaicom.imgix.net
+
+ - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+
+ - DOMAIN,production-openaicom-storage.azureedge.net
+
+ - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+
+ - DOMAIN-SUFFIX,host.livekit.cloud
+
+ - DOMAIN-SUFFIX,turn.livekit.cloud
+
+ - DOMAIN,openai-api.arkoselabs.com
+
+ - DOMAIN-SUFFIX,client-api.arkoselabs.com
+
+ - DOMAIN-SUFFIX,api.statsig.com
+
+ - DOMAIN-SUFFIX,events.statsigapi.net
 
  - DOMAIN-SUFFIX,featuregates.org
+
+ - DOMAIN-SUFFIX,intercom.io
+
+ - DOMAIN-SUFFIX,intercomcdn.com
+
+ - DOMAIN,browser-intake-datadoghq.com
+
+ - DOMAIN,o33249.ingest.sentry.io
+
+ - DOMAIN,openai.qualtrics.com
+
+ - DOMAIN-KEYWORD,openai
+
+ - DOMAIN-KEYWORD,chatgpt
+
+ - IP-CIDR,24.199.123.28/32,no-resolve
+
+ - IP-CIDR,64.23.132.171/32,no-resolve
+
+ - IP-CIDR,199.47.142.0/23,no-resolve
+
+ - IP-CIDR6,2604:f20::/32,no-resolve
 
 # > ChatGPT Voice (source: openai.com/chatgpt-voice.json, 2026-11-16)
 
