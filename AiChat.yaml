@@ -868,22 +868,52 @@ payload:
 
  - DOMAIN-SUFFIX,claudeusercontent.com
 
-# > Muse
+# > Muse / Meta AI / Meta Apps
 
  - DOMAIN-SUFFIX,muse.ai
 
  - DOMAIN-SUFFIX,museai.com
 
- - DOMAIN-SUFFIX,metaaiusercontent.com
+ - DOMAIN-SUFFIX,meta.ai
 
- - DOMAIN-SUFFIX,ecto1.ai
+ - DOMAIN-SUFFIX,meta.com
+
+ - DOMAIN-SUFFIX,atmeta.com
+
+ - DOMAIN-SUFFIX,metaaivm.com
+
+ - DOMAIN-SUFFIX,metaaiusercontent.com
 
  - DOMAIN-SUFFIX,ecto1usercontent.com
 
- - DOMAIN,connect.facebook.net
+ - DOMAIN,hatch.ecto1.ai
 
  - DOMAIN,node.hatch.one
 
- - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+ - DOMAIN,meta.privacy-gateway.cloudflare.com
+
+ - DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
 
  - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+
+ - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+
+ - DOMAIN-SUFFIX,facebook.com
+
+ - DOMAIN-SUFFIX,facebook.net
+
+ - DOMAIN-SUFFIX,fbcdn.net
+
+ - DOMAIN-SUFFIX,fbsbx.com
+
+ - DOMAIN-SUFFIX,fb.com
+
+ - DOMAIN-SUFFIX,fbpigeon.com
+
+ - DOMAIN-SUFFIX,whatsapp.com
+
+ - DOMAIN-SUFFIX,whatsapp.net
+
+ - DOMAIN-SUFFIX,instagram.com
+
+ - DOMAIN-SUFFIX,cdninstagram.com
